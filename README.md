@@ -12,7 +12,6 @@ Hi 👋, I'm Jeremiah Onwochei
 
 - ⚡ Fun fact **I don't communicate much**
 
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
