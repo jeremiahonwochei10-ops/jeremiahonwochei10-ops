@@ -12,7 +12,7 @@ Hi 👋, I'm Jeremiah Onwochei
 
 - ⚡ Fun fact **I don't communicate much**
 
-- ![Design and Development](https://github.com/jeremiahonwochei10-ops/jeremiahonwochei10-ops/blob/main/aboutus%20house.jpg)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
