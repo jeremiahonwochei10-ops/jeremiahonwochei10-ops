@@ -2,5 +2,6 @@
 
 I'm Jeremiah from Nigeria, and i do content on Design and Development. I really enjoy learning language and frameworks like React and React Native.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremiah)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremiahonwochei10-ops&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremiah)](https://github.com/anuraghazra/github-readme-stats)
 
