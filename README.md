@@ -4,7 +4,7 @@ I'm Jeremiah from Nigeria, and i do content on Design and Development. I really 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahonwochei10)](https://github.com/anuraghazra/github-readme-stats)
 
-h1 align="center">Hi 👋, I'm Jeremiah Onwochei</h1>
+Hi 👋, I'm Jeremiah Onwochei
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
 - 🔭 I’m currently working on **Real Estate project**
